@@ -1,4 +1,4 @@
-//model for Jeep
+//model for car
 var Jeep = {
   model : "Cherokee",
   color : "white",
@@ -13,4 +13,13 @@ var Elephant = {
   size : "large",
   color : "grey",
   predominantFeatures : "trunk", "hooves", "great memory"
+}
+
+
+//model for customer
+
+var = Customer = {
+  name : "Ali",
+  location : "Wisconsin",
+  payingMember : true
 }
